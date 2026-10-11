@@ -63,7 +63,7 @@
     "h3": "catalog:",
     "highlight.js": "catalog:",
     "isbot": "^5",
-    "katex": "0.17.0",
+    "katex": "0.18.2",
     "lowlight": "catalog:",
     "prosemirror-markdown": "^1.13.4",
     "react": "catalog:",
