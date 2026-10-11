@@ -36,7 +36,7 @@
     "@agent-native/core": "workspace:*",
     "@agent-native/shared-app-config": "workspace:*",
     "@agent-native/toolkit": "workspace:*",
-    "@modelcontextprotocol/client": "2.0.0",
+    "@modelcontextprotocol/client": "2.3.1",
     "@modelcontextprotocol/core": "2.0.0",
     "@modelcontextprotocol/node": "2.0.0",
     "@modelcontextprotocol/server": "2.0.0",
@@ -57,7 +57,7 @@
     "@types/react-dom": "^19.2.3",
     "@vitejs/plugin-react-swc": "^4.0.0",
     "cross-env": "10.1.0",
-    "electron": "^43.4.0",
+    "electron": "^43.5.0",
     "electron-builder": "^26.8.1",
     "electron-vite": "^5.0.0",
     "react": "^19.2.5",
@@ -65,7 +65,7 @@
     "tailwindcss": "^4.3.0",
     "typescript-7": "catalog:",
     "vite": "catalog:",
-    "vitest": "^4.1.10"
+    "vitest": "^5.0.3"
   },
   "packageManager": "pnpm@10.29.1",
   "productName": "Agent-Native"
